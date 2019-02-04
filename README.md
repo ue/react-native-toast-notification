@@ -3,6 +3,7 @@
 A react native component for toast message
 
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/ue/react-native-toast-notification/master/LICENSE)
+[ ![NPM version](http://img.shields.io/npm/v/react-native-toast-notification.svg?style=flat)](https://www.npmjs.com/package/react-native-toast-notification)
 
 ## Installation
 
