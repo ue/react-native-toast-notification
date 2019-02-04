@@ -6,8 +6,8 @@ A react native component for toast message
 
 ## Installation
 
-- 1.Run `npm i react-native-toast-notification --save`
-- 2.`import { ToastNotification } from 'react-native-toast-notification'`
+- 1.Run `npm i react-native-toast-notification --save` or `yarn add react-native-toast-notification`
+- 2.`import ToastNotification from 'react-native-toast-notification'`
 
 ![Screenshots](https://media.giphy.com/media/2Y9EqfZPI10I8s7hRM/giphy.gif)
 
